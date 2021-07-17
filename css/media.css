@@ -1,0 +1,186 @@
+@media (max-width:800px) {
+    .container{
+        max-width: 576px;
+    }
+    
+    .header{
+        padding-bottom: 190px;
+    }
+    
+    .header .container .nav-center {
+        padding-top: 90px;
+    }
+    
+    .header-title{
+        font-size: 75px;
+    }
+    
+    .header .btn{
+        width: 180px;
+    }
+    
+    .work .good-wrapper .item{
+        margin-bottom: 5px;
+    }
+    
+    .gen-title{
+        font-size: 35px;
+        padding-top: 60px;
+    }
+    
+    .values .buttons .btn{
+        font-size: 13px;
+    }
+    
+    .values .shop .good-info .good-title{
+        font-size: 13px;
+    }
+    
+    .collection-text .collect-btn{
+        font-size: 10px;
+    }
+    
+    .collect-title {
+        font-size: 25px;
+    }
+    
+    .collect-subt {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    
+    .celebrate {
+        padding-top: 100px;
+    }
+    
+    .for-good .products-wrapper {
+        margin: 55px 0;
+    }
+    
+    .boonletter .gen-title {
+        margin-bottom: 25px;
+    }
+    
+    .boonletter form input{
+        height: 50px;
+    }
+    
+    .boonletter form input.name {
+        width: 200px;
+    }
+    
+    .boonletter form input.email {
+        width: 260px;
+    }
+    
+    .boonletter form input.submit{
+        width: 80px;
+    }
+    
+    .footer .container{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .footer-logo .logo-box {
+        width: 265px;
+    }
+    
+    .footer-logo .logo-box .box-top::before{
+        left: 42%;
+    }
+    
+    .footer-content .foot-list {
+        padding: 3px 0;
+    }
+    
+    .footer-logo {
+        margin: 60px 0 20px 0;
+    }
+    
+    .footer-logo .logo-box {
+        width: 188px;
+    }
+    
+    .footer-logo .logo-box .box-top{
+        padding: 10px 13px;
+    }
+    
+    .footer-logo .logo-box span {
+        padding-left: 0;
+        font-size: 17px;
+    }
+    
+    .footer-logo .logo-subt {
+        padding: 18px 20px 18px;
+        font-size: 13px;
+    }
+    
+    .footer-content {
+        margin-top: 25px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media(max-width:576px){
+    .header {
+        padding-bottom: 125px;
+    }
+    
+    .header-title{
+        font-size: 40px;
+        width: 100%;
+        margin-bottom: 20px !important;
+    }
+    
+    .header .btn {
+        width: 135px;
+        font-size: 13px;
+    }
+    
+    .header .container .nav .nav-item .nav-link{
+        font-size: 13px;
+    }
+    
+    .gen-title {
+        font-size: 30px;
+        padding-top: 40px;
+    }
+    
+    .values::after{
+        top: 95px;
+    }
+    
+    .values .buttons{
+        flex-wrap: wrap
+    }
+    
+    .values .shop .goods{
+        margin-bottom: 7px;
+    }
+    
+    .values .container .buttons {
+        padding: 30px 0 30px;
+    }
+    
+    .celebrate {
+        padding-top: 60px;
+    }
+    
+    .for-good .product{
+        max-width: 200px;
+    }
+    
+    .for-good .product img{
+        height: 200px;
+    }
+    
+    .boonletter{
+        padding-bottom: 45px;
+    }
+    
+    .boonletter form input{
+        margin: 5px 0;
+    }
+}
